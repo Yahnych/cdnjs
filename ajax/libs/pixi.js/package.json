@@ -15,7 +15,7 @@
   "npmName": "pixi.js",
   "npmFileMap": [
     {
-      "basePath": "bin",
+      "basePath": "dist",
       "files": [
         "pixi.js",
         "pixi.dev.js"
