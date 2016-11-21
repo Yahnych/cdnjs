@@ -16,12 +16,7 @@
   "npmFileMap": [
     {
       "basePath": "dist",
-      "files": [
-        "pixi.js",
-        "pixi.js.map",
-        "pixi.min.js",
-        "pixi.min.js.map"
-      ]
+      "files": ["**/*"]
     }
   ],
   "repository": {
